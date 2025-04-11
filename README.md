@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Headyhadia
-- 👀 I’m interested in Programming, Computer Science, Hacking, Reading, Arts
-- 🌱 I’m currently learning Webdevelopment
-- 📫 How to reach me ... @hadia_abq (Instagram) 
+- 👀 I’m interested in Programming, Tech, Books, Reading, Arts
+- 🌱 I’m currently learning React.js and aspire to be a full-stack blockchain developer
+- 📫 How to reach me ...  www.linkedin.com/in/hadia-abdullah-7503b2174 
 - 😄 Pronouns: ...She, Her
 
 <!---
