@@ -1,78 +1,84 @@
-# Hadia Abdullah  
+# Hadia Abdullah
 
-**Full-Stack Engineer | Blockchain Builder | Applied AI Explorer**
+Full-Stack Engineer (Next.js • React • Django • DRF)
 
-I build real systems end-to-end — from smart contracts to APIs to user-facing interfaces.
+I build production-oriented systems end-to-end — from database design and REST APIs to responsive user interfaces.
 
-I’m currently working at the intersection of decentralized systems, backend engineering, and applied AI, focusing on production-ready architecture rather than hype cycles.
+My focus is backend reliability, clean architecture, and shipping features that hold up beyond demo-level.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**  
-Solidity • JavaScript • TypeScript • Python • SQL
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
 
-**Frontend**  
-React • Ethers.js • Modern CSS
+### Backend
+- Python
+- Django
+- Django REST Framework
+- PostgreSQL
 
-**Backend & Tools**  
-Node.js • Hardhat • OpenZeppelin • REST APIs • Git • Docker
+### Testing & Reliability
+- Automated backend testing (40+ test cases, 630+ LOC)
+- Permission & authentication validation
+- CRUD lifecycle coverage
+- Edge case & concurrency testing
+- API contract stability verification
 
-**Blockchain**  
-Ethereum • ERC-20 • Sepolia testnet deployments • Chainlink oracles
-
-**Machine Learning / AI**  
-Scikit-learn • Pandas • NumPy • Feature Engineering • Model Evaluation (MAE, MSE, RMSE, Precision, Recall, F1)
-
----
-
-## 🚀 Selected Work Themes
-
-### 🔗 Blockchain & dApps
-- Built and deployed ERC-20 tokens using Hardhat  
-- Integrated React frontend with deployed smart contracts (Metamask connection, on-chain calls)  
-- Developed a DeFi price alert prototype using Chainlink price feeds  
-- Focus on clean contract architecture and frontend-contract integration  
-
-### 🧱 Full-Stack Systems
-- Authentication flows and structured React components  
-- Backend APIs and automation scripts in Python  
-- Organized production-style file structures  
-- Logging, state handling, and integration logic  
-
-### 🤖 Machine Learning Projects
-- Telecom churn prediction  
-- House price prediction using log transformations to improve regression accuracy and reduce skew  
-- Applied TF-IDF vectorization for text modeling  
-- Evaluated models using precision, recall, F1-score, MAE, MSE, RMSE  
+### Tools
+- Git & GitHub (PR workflows)
+- ESLint & Prettier
+- Environment-based configuration
+- Logging systems
+- Basic Docker familiarity
 
 ---
 
-## 🧠 Engineering Philosophy
+## 🚀 What I Build
 
-I’m not interested in boxing myself into Web2, Web3, or AI labels.
+### 🔐 Authentication & Access-Controlled Systems
+- Session-based authentication flows
+- Ownership & permission enforcement
+- Secure API integration
 
-I care about:
-- Strong foundations  
-- Clean architecture  
-- Real integration between systems  
-- Building things that can scale beyond demo-level  
+### 💬 Structured Backend Architectures
+- Nested data models with enforced constraints
+- Optimized relational queries
+- ViewSet-based API design
+- Custom serializer & update logic (including upsert behavior)
 
-Long term: Build technically strong products that merge decentralized systems with intelligent automation.
+### 🧱 Full-Stack Applications
+- Complete CRUD systems
+- Clear frontend-backend API contracts
+- Scalable component-based frontend structure
+- Production-style project organization
 
 ---
 
-## 🌱 What This GitHub Represents
+## 🧪 Engineering Standards
 
-This is not a collection of random coursework.  
-It’s a lab for building real systems.
+I prioritize:
 
-You’ll find:
-- Production-style dApps  
-- ML experiments with proper evaluation  
-- Backend utilities and automation  
-- Structured learning repositories with implementation depth  
+- Writing automated tests for core logic
+- Protecting API contracts
+- Handling edge cases before users hit them
+- Preventing N+1 query issues
+- Maintaining clean and maintainable architecture
+
+---
+
+## 🌱 Current Direction
+
+Continuously improving in:
+
+- System design fundamentals
+- Performance optimization
+- Scalable backend architecture
+- Applied AI integration into backend systems
 
 ---
 
